@@ -1,0 +1,29 @@
+{
+    "name": "ole-base",
+    "displayName": "OLE Base",
+    "description": "Vscode Extension Pack of OLE Base",
+    "version": "0.0.0",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "publisher": "OrbitLifeEnrichment",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OrbitLifeEnrichment/VSCode-Ext-Base"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "codestream.codestream",
+        "compulim.vscode-chinese-translation",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "gruntfuggly.todo-tree",
+        "mhutchie.git-graph",
+        "ms-vsliveshare.vsliveshare-pack",
+        "redjue.git-commit-plugin",
+        "serhioromano.vscode-gitflow",
+        "wmaurer.change-case"
+    ]
+}
